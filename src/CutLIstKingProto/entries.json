@@ -1,0 +1,20 @@
+{
+  [
+    {
+      "PieceCode": "alpha",
+      "PieceLength": 123
+    },
+    {
+      "PieceCode": "bravo",
+      "PieceLength": 12
+    },
+    {
+      "PieceCode": "charlie",
+      "PieceLength": 144
+    },
+    {
+      "PieceCode": "delta",
+      "PieceLength": 24
+    }
+  ]
+}
